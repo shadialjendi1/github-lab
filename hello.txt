@@ -1,1 +1,2 @@
 Hello from the new branch!
+Edit from GitHub.
